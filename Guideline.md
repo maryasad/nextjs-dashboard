@@ -9,3 +9,5 @@ Edit /app/lib/definitions.ts
 - pnpm i
 - pnpm dev
 - Open http://localhost:3000
+
+Reference: https://nextjs.org/learn
