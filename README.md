@@ -31,20 +31,20 @@ To run the project locally:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/YOUR_USERNAME/nextjs-dashboard.git
+    git clone https://github.com/maryasad/nextjs-dashboard.git
     ```
 
 2. Install dependencies:
 
     ```bash
     cd nextjs-dashboard
-    npm install
+    pnpm i
     ```
 
 3. Start the development server:
 
     ```bash
-    npm run dev
+    pnpm dev
     ```
 
 The app will be running on `http://localhost:3000`.
