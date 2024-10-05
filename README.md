@@ -38,13 +38,13 @@ To run the project locally:
 
     ```bash
     cd nextjs-dashboard
-    npm install
+    pnpm i
     ```
 
 3. Start the development server:
 
     ```bash
-    npm run dev
+    pnpm dev
     ```
 
 The app will be running on `http://localhost:3000`.
